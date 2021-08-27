@@ -1,0 +1,1 @@
+void _delay_cycles(unsigned int cycles);

@@ -1,0 +1,1 @@
+char translate_ps2_scancode_to_char(unsigned char scancode);
